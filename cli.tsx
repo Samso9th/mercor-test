@@ -1,1 +1,2 @@
 import 
+console from 'console';
